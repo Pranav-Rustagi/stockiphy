@@ -1,0 +1,324 @@
+.section{
+  padding: 5% 10% 2.5%;
+}
+
+.navbar{
+  padding: 0px;
+  margin-bottom: 80px;
+}
+
+.navbar-brand{
+  color: #343946;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.nav-link{
+  font-family: "Montserrat";
+  font-size: 16px;
+  letter-spacing: 0.04em;
+  margin: 0 16px;
+}
+
+.btn{
+  background: #DAA526;
+  border-radius: 8px;
+}
+
+.text-light{
+  font-family: "Montserrat";
+  font-size: 16px;
+  padding: 12px 16px;
+}
+
+.section .title_col_custom{
+  padding-right: 0;
+}
+
+.title_heading{
+  font-family: sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+}
+
+.title_img{
+  width: 90%;
+}
+
+.title_des{
+  font-family: "Montserrat";
+  font-size: 18px;
+  padding: 2.5% 20% 2.5% 0;
+  padding-right: 20%;
+  font-weight: normal;
+  line-height: 144.5%;
+}
+
+.box1{
+  background: #F2F6FA;
+  margin-top: 43px;
+  box-shadow: 0px 29px 36px rgba(131, 131, 208, 0.2);
+  padding: 28px;
+  border-radius: 24px;
+}
+
+.rectangle2{
+  background: #fff;
+  height: 132px;
+  border-radius: 20px;
+}
+
+.col_custom{
+  padding: 28px;
+}
+
+.section .col_custom h6{
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 120%;
+  padding: 20px 0 5px;
+  margin: 0;
+}
+
+.section h1 span{
+  font-size: 24px;
+  color: #9FB2C5;
+  font-weight: 500;
+  padding: 0 12px;
+}
+
+.section_3{
+  padding: 56px 80px;
+  font-family: sans-serif;
+}
+
+.sec3_heading{
+  font-weight: 700;
+  text-align: center;
+  margin-bottom: 160px;
+  font-size: 36px;
+}
+
+.scale_line{
+  background: #fff;
+  border-radius: 10px;
+  width: 65%;
+  position: relative;
+  height: 15px;
+}
+
+.scale_mark{
+  position: absolute;
+  left: -18px;
+  border-radius: 100%;
+  top: -9px;
+  height: 36px;
+  width: 36px;
+  background: #2F2E41;
+}
+
+.pos2{
+  left: 50%;
+  margin-left: -22.5px;
+}
+
+.pos3{
+  left: 100%;
+  margin-left: -22.5px;
+}
+
+.comment{
+  position: absolute;
+  bottom: 48px;
+  left: 0%;
+  margin-left: -80px;
+  background: #FFF;
+  box-shadow: 0px 32px 57px rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  padding: 13px 45px;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.comment2{
+  left: 50%;
+  margin-left: -120px;
+}
+
+.comment3{
+  left: 100%;
+  margin-left: -120px;
+}
+
+.pointer{
+  height: 10px;
+  width: 10px;
+  background: #fff;
+  border-radius: 2.3px;
+  transform: rotate(45deg);
+  right: 65px;
+  position: absolute;
+  bottom: -0.75px;
+}
+
+.point2{
+  right: 90px;
+}
+
+.point3{
+  right: 105px;
+}
+
+.mid_mark{
+  background: #D2DCE7;
+  width: 10px;
+  height: 48px;
+  position: absolute;
+  top: -16.5px;
+  right: 50%;
+}
+
+.lists{
+  padding: 32px;
+}
+
+.lists ul{
+  padding: 0 48px;
+}
+
+.lists ul li{
+  font-family: sans-serif;
+  font-size: 14px;
+  color: #9FB2C5;
+  padding: 4px 0;
+  line-height: 120%;
+}
+
+.conditions{
+  font-family: "Montserrat";
+  font-size: 10px;
+  text-align: right;
+  line-height: 12px;
+  letter-spacing: 0.04em;
+  color: #9FB2C5;
+}
+
+.b_half{
+  width: 50%;
+  position: absolute;
+  height: 100%;
+  border-radius: 10px;
+  background: #DAA526;
+}
+
+.carousel{
+  overflow: hidden;
+  border-radius: 24px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    filter: invert(100%);
+}
+
+.save_shadow{
+  padding: 0 48px 64px;
+}
+
+
+.last_box{
+  background: #DAA526;
+  box-shadow: 0px 29px 36px rgba(131, 131, 208, 0.4);
+  padding: 56px;
+}
+
+.last_box h5{
+  font-family: sans-serif;
+  font-weight: 900;
+  font-size: 2em;
+}
+
+.last_box span{
+  color: #fff;
+  padding: 0 32px 0 0;
+  float: left;
+}
+
+.bg-dark{
+  padding: 12px 16px;
+  margin-top: 16px;
+  font-family: sans-serif;
+}
+
+.end{
+  height: 2px;
+  background: #000;
+}
+
+.last_links{
+  padding-top: 0;
+  padding-bottom: 5%;
+  text-align: center;
+}
+
+.last_links a{
+  color: #000;
+  text-decoration: none;
+  padding: 0 32px;
+}
+
+@media (max-width: 991px) {
+  .section{
+    padding-bottom: 7.5%;
+  }
+  .navbar{
+    margin-bottom: 50px;
+  }
+
+  .lists ul{
+    padding: 0;
+  }
+  .box1{
+    margin-top: 32px;
+  }
+  .title_des{
+    font-size: 16.5px;
+  }
+  .nav-link{
+    margin: 0;
+  }
+  .title_col_custom{
+    padding-top: 48px;
+  }
+  .title_heading{
+    font-size: 2.75em;
+  }
+  .nav-link{
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 769px) {
+  .section{
+    padding-bottom: 15%;
+  }
+  .navbar{
+    margin-bottom: 30px;
+  }
+  .box1{
+    margin-top: 24px;
+  }
+  .title_des{
+    font-size: 15px;
+  }
+  .title_heading{
+    font-size: 2.25em;
+  }
+  .section h1 span{
+    font-size: 18px;
+  }
+  .sec3_heading{
+    font-size: 25.5px;
+  }
+}
